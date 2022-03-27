@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "IRANSansWeb";
+  src: url(../fonts/IRANSansWeb_Light.ttf);
+  font-weight: 300;
+}
+@font-face {
+  font-family: "IRANSansWeb";
+  src: url(../fonts/IRANSansWeb_Medium.ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: "IRANSansWeb";
+  src: url(../fonts/IRANSansWeb.ttf);
+  font-weight: 500;
+}
+@font-face {
+  font-family: "IRANSansWeb";
+  src: url(../fonts/IRANSansWeb_Bold.ttf);
+  font-weight: 800;
+}
+* {
+  font-family: "IRANSansWeb";
+}
